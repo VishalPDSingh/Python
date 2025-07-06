@@ -20,3 +20,12 @@ print("Power is ",a**b)
 # in the expression pecedence of operataor is
 # first (), secnond **, third *,/, //, % from left to right, fourth +,-
 print(5+2*3-1+10/5)
+
+
+# Task 
+# Caluclate_BMI, Formula is: weight/height
+weight = int(input("Enter the weight of your body: "))
+height = int(input("Enter the height of your body: "))
+BMI = weight/height
+print("Body mass index is: ",BMI)
+print(type(BMI))
