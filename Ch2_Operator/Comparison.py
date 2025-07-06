@@ -10,3 +10,6 @@ a+=2 # a-=2, a*=2, a/=2, a//=2, a**=2, a%=2 these RE SHORT hand operator
 # it check the condtions and return true or false
 b = 10
 print(b<5)
+
+x,y,z = 4,"vishal",34.5
+print(y)
