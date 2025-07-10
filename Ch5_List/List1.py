@@ -24,3 +24,8 @@ for i in l3:
             print(type(j))
     if type(i) == int:
         print(i)
+print(l3[0:5]) # This is also metho to print
+print(l3[6:3]) # it give the blank 
+
+lis = list(range(10))
+print(lis)
