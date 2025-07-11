@@ -29,3 +29,5 @@ print(l3[6:3]) # it give the blank
 
 lis = list(range(10))
 print(lis)
+
+print(len(l3))
