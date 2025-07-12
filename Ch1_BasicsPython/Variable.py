@@ -26,5 +26,9 @@ print(b)
 
 x = "vishal"
 print(type(x))
-x = 10
+y = 10
 print(type(x))
+print(x,y)
+
+num,name = 34,"vishal"
+print(num,name)
