@@ -21,5 +21,10 @@ a= 1
 b = "Vishal"
 print(a)
 print(b)
-print(a+b) # here it give the concatenation error, because we cannot concatenate the string and integer both
+#print(a+b) # here it give the concatenation error, because we cannot concatenate the string and integer both
 # typeError
+
+x = "vishal"
+print(type(x))
+x = 10
+print(type(x))
